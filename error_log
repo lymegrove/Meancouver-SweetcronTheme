@@ -1,0 +1,16 @@
+[20-Oct-2011 11:11:24] PHP Fatal error:  Using $this when not in object context in /home/rothwell/public_html/meancouver/tech-jobs/system/application/views/themes/meancouverHTML5/_footer-iphone.php on line 3
+[20-Oct-2011 11:11:56] PHP Fatal error:  Using $this when not in object context in /home/rothwell/public_html/meancouver/tech-jobs/system/application/views/themes/meancouverHTML5/_sidebar-single.php on line 7
+[20-Oct-2011 11:11:58] PHP Fatal error:  Using $this when not in object context in /home/rothwell/public_html/meancouver/tech-jobs/system/application/views/themes/meancouverHTML5/items.php on line 1
+[20-Oct-2011 11:12:29] PHP Fatal error:  Using $this when not in object context in /home/rothwell/public_html/meancouver/tech-jobs/system/application/views/themes/meancouverHTML5/single.php on line 7
+[20-Oct-2011 11:12:40] PHP Fatal error:  Using $this when not in object context in /home/rothwell/public_html/meancouver/tech-jobs/system/application/views/themes/meancouverHTML5/_header.php on line 7
+[20-Oct-2011 11:19:19] PHP Fatal error:  Using $this when not in object context in /home/rothwell/public_html/meancouver/tech-jobs/system/application/views/themes/meancouverHTML5/rss_feed.php on line 3
+[20-Oct-2011 11:19:42] PHP Fatal error:  Using $this when not in object context in /home/rothwell/public_html/meancouver/tech-jobs/system/application/views/themes/meancouverHTML5/_sidebar-iphone-single.php on line 4
+[20-Oct-2011 11:20:02] PHP Fatal error:  Using $this when not in object context in /home/rothwell/public_html/meancouver/tech-jobs/system/application/views/themes/meancouverHTML5/single-normal.php on line 5
+[20-Oct-2011 11:23:57] PHP Fatal error:  Call to undefined function  get_sidebar() in /home/rothwell/public_html/meancouver/tech-jobs/system/application/views/themes/meancouverHTML5/_footer-normal.php on line 22
+[20-Oct-2011 11:29:31] PHP Fatal error:  Call to undefined function  language_attributes() in /home/rothwell/public_html/meancouver/tech-jobs/system/application/views/themes/meancouverHTML5/_header-normal.php on line 13
+[20-Oct-2011 11:34:12] PHP Fatal error:  Using $this when not in object context in /home/rothwell/public_html/meancouver/tech-jobs/system/application/views/themes/meancouverHTML5/_sidebar-iphone.php on line 4
+[20-Oct-2011 11:34:23] PHP Warning:  Invalid argument supplied for foreach() in /home/rothwell/public_html/meancouver/tech-jobs/system/application/views/themes/meancouverHTML5/_sidebar-normal-single.php on line 37
+[20-Oct-2011 11:35:04] PHP Fatal error:  Using $this when not in object context in /home/rothwell/public_html/meancouver/tech-jobs/system/application/views/themes/meancouverHTML5/_sidebar.php on line 7
+[20-Oct-2011 11:35:59] PHP Warning:  Invalid argument supplied for foreach() in /home/rothwell/public_html/meancouver/tech-jobs/system/application/views/themes/meancouverHTML5/_sidebar-normal.php on line 38
+[20-Oct-2011 11:35:59] PHP Fatal error:  Call to undefined function  dynamic_sidebar() in /home/rothwell/public_html/meancouver/tech-jobs/system/application/views/themes/meancouverHTML5/_sidebar-normal.php on line 43
+[20-Oct-2011 11:36:39] PHP Fatal error:  Using $this when not in object context in /home/rothwell/public_html/meancouver/tech-jobs/system/application/views/themes/meancouverHTML5/contact.php on line 18
